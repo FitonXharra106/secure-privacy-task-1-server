@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecurePrivacyTask1", "SecurePrivacyTask1\SecurePrivacyTask1.csproj", "{5E2213A4-C7C3-4E61-BA59-4EB83A19AFCA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E2213A4-C7C3-4E61-BA59-4EB83A19AFCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E2213A4-C7C3-4E61-BA59-4EB83A19AFCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E2213A4-C7C3-4E61-BA59-4EB83A19AFCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E2213A4-C7C3-4E61-BA59-4EB83A19AFCA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E698BAC-7C68-45D0-9FAF-4AC019286B3A}
+	EndGlobalSection
+EndGlobal

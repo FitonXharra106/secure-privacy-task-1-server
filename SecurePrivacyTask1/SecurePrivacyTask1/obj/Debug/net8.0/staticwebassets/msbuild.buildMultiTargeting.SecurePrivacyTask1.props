@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\SecurePrivacyTask1.props" />
+</Project>

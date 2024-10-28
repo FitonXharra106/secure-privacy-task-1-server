@@ -1,7 +1,7 @@
 # Secure Privacy Task 1
 
 ## Overview
-Secure Privacy Task is a simple ASP.NET Core web application designed to manage user data with privacy in mind. The application utilizes MongoDB for data storage and provides a RESTful API for user operations, such as creating and retrieving user information.
+This is a simple ASP.NET Core web application designed to manage user data with privacy in mind. The application utilizes MongoDB for data storage and provides a RESTful API for user operations, such as creating and retrieving user information.
 
 ## Features
 - **User Management**: Create and retrieve user records.

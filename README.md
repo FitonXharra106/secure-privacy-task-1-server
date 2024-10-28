@@ -26,4 +26,4 @@ Secure Privacy Task is a simple ASP.NET Core web application designed to manage 
 
 1. **Clone the repository:**
    ```bash
-   git clone thttps://github.com/FitonXharra106/secure-privacy-task-1-server.git
+   git clone https://github.com/FitonXharra106/secure-privacy-task-1-server.git
